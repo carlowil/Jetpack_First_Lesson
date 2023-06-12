@@ -1,2 +1,2 @@
-# Jetpack_First_Lesson
+# Jetpack First Lesson
 Google Jetpack Compose Lessons
